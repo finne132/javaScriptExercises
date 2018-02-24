@@ -14,5 +14,8 @@ const sean  ={
     hairColor:'brown',
 }
 
+const studentArray = [joe, sean]
+
 console.log(typeof joe, joe);
 console.log(typeof sean, sean);
+console.log(typeof studentArray, studentArray);
