@@ -14,8 +14,8 @@ const sean  ={
     hairColor:'brown',
 }
 
-const studentArray = [joe, sean]
+const studentArray = [joe, sean];
 
-console.log(typeof joe, joe);
-console.log(typeof sean, sean);
-console.log(typeof studentArray, studentArray);
+for(let i=0;i<studentArray.length;i++){
+    console.log(`${studentArray[i].name}`)
+}
