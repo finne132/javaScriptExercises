@@ -1,0 +1,19 @@
+{
+  "name": "javascriptexercises",
+  "version": "1.0.0",
+  "description": "some basic js learning exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finne132/javaScriptExercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finne132/javaScriptExercises/issues"
+  },
+  "homepage": "https://github.com/finne132/javaScriptExercises#readme"
+}
